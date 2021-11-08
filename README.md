@@ -1,5 +1,7 @@
 # Data-Science
-this Repo for all projects and nootbooks about Data Science it will divide into some sections:
+This Repo for all projects and nootbooks about Data Science. 
+
+my work will divide into some sections:
 
 1- Optimization
 
